@@ -39,4 +39,4 @@ I look forward to continuing exploring how data can reflect public emotions acro
 
 ### 🔗 Connect with Me
 If you’d like to discuss data analysis, Python, or Marvel shows 😄  
-Find me on [LinkedIn](https://www.linkedin.com/in/jae-hwan-kim-274190100/) or contact me via email!
+Find me on [LinkedIn](https://www.linkedin.com/in/jae-hwan-kim-274190100/) or contact me via email: jkim3615@gmail.com!
