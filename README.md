@@ -22,7 +22,12 @@ Using **Python, Selenium, and VADER Sentiment Analysis**, I collected and analyz
 ---
 
 ### 🖼️ Visualization
-![](visualization/powerbi_dashboard.png)
+<img width="1164" height="653" alt="1st_page" src="https://github.com/user-attachments/assets/fd51cd6b-d3b0-4252-91fb-5ad148c6bf7d" />
+<img width="1161" height="646" alt="2nd_page" src="https://github.com/user-attachments/assets/49865a79-4b24-44fc-91f8-8abb4126f645" />
+<img width="1159" height="646" alt="3rd_page" src="https://github.com/user-attachments/assets/fc81883a-2959-453c-8d8f-5722a892a727" />
+<img width="1160" height="648" alt="4th_page" src="https://github.com/user-attachments/assets/15d245a0-deb9-48f2-987f-44083f1f76d0" />
+<img width="1159" height="648" alt="5th_page" src="https://github.com/user-attachments/assets/61d160db-e86c-4b66-8acb-3cfa19a14fbb" />
+
 
 ---
 
